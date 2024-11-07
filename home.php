@@ -11,8 +11,8 @@
  <div class="col-md-12">
     <div class="panel">
       <div class="jumbotron text-center">
-         <h1>Welcome User <hr> DCTV Inventory Management System</h1>
-         <p>Browes around to find out the pages that you can access!</p>
+         <h1>Welcome to <hr> Inventory Management System</h1>
+         <p>Browse around to find out the pages that you can access!</p>
       </div>
     </div>
  </div>
